@@ -1,1 +1,1 @@
-# JS-core-HOMEWORK
+Домашните и проектите от курса JS core
